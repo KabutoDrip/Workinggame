@@ -1,5 +1,8 @@
 [Software Demo Video][(https://youtu.be/fu9C6tPnGOE)]
 
+This project was just an introduction to using the unity game engine. I learned about rigid bodies, project structure, using github with unity, creating materials, and applying physics to objects.
+
+As of now it is just functionally a game where you move a character with no objective.
 # Development Environment
 
 {Unity, VScode, Github, GithubDesktop}
