@@ -1,4 +1,4 @@
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/fu9C6tPnGOE))
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/fu9C6tPnGOE)
 
 # Development Environment
 
