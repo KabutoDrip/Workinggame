@@ -1,8 +1,8 @@
-[Software Demo Video][(https://youtu.be/fu9C6tPnGOE)]
+[Software Demo Video][(https://youtu.be/_ybofxVVAKo)]
 
-This project was just an introduction to using the unity game engine. I learned about rigid bodies, project structure, using github with unity, creating materials, and applying physics to objects.
+This Project consisted of me learning c# and making scripts for my game
 
-As of now it is just functionally a game where you move a character with no objective.
+As of now it its just a bunch of background checks for data and console logging the data, next sprint is interfacing that info with the game
 # Development Environment
 
 {Unity, VScode, Github, GithubDesktop}
@@ -11,15 +11,13 @@ As of now it is just functionally a game where you move a character with no obje
 
 # Useful Websites
 
-* [stack-overflow]([http://url.link.goes.here](https://stackoverflow.com/questions/10744305/how-to-create-a-gitignore-file))
-* [youtube](https://www.youtube.com/watch?v=hkZerPQbkZYS)
-* [youtube](https://www.youtube.com/watch?v=pyb3cKrj1ZE&t=659s)
-* [youtube](https://www.youtube.com/watch?v=IlKaB1etrik)
+* [UnityAnswers](https://answers.unity.com/questions/156989/how-get-position-from-a-game-object.html))
+* [W3 Schools](https://www.w3schools.com/cs/cs_conditions.php)
+* [UnityAPI](https://docs.unity3d.com/ScriptReference/GameObject.html)
 
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * add obstacles
 * add sounds
 * clean it up and add a skybox and ui
